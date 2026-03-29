@@ -16,7 +16,7 @@ This project implements a lightweight **agentic pipeline** that goes beyond defe
 - Image → Perception → Risk → Decision → Action
 
 ## Sample Input
-![Sample](./cracks/sample.jpg)
+<img src="./cracks/sample.jpg" width="300">
 
 ## Sample Output (./cracks/sample.jpg)
 
