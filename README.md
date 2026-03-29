@@ -15,10 +15,10 @@ This project implements a lightweight **agentic pipeline** that goes beyond defe
 
 - Image → Perception → Risk → Decision → Action
 
-## Sample Input
+## Sample Input (./cracks/sample.jpg)
 <img src="./cracks/sample.jpg" width="300">
 
-## Sample Output (./cracks/sample.jpg)
+## Sample Output
 
 ```json
 {
