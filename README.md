@@ -2,8 +2,6 @@
 
 Agentic AI demo for **predictive maintenance** in cognitive city infrastructure.
 
----
-
 ## Overview
 
 This project implements a lightweight **agentic pipeline** that goes beyond defect detection:
@@ -12,8 +10,6 @@ This project implements a lightweight **agentic pipeline** that goes beyond defe
 - Risk Scoring
 - Decision Making
 - Action Generation
-
----
 
 ## Pipeline
 
