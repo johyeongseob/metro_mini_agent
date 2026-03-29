@@ -15,7 +15,7 @@ This project implements a lightweight **agentic pipeline** that goes beyond defe
 
 - Image → Perception → Risk → Decision → Action
 
-## Sample Output (./crack/sample.jpg)
+## Sample Output (./cracks/sample.jpg)
 
 ```json
 {
